@@ -20,7 +20,7 @@
 `JavaScript` | `Python` | `C++`
 
 ### 🌐 Frontend
-`HTML` | `CSS` | `JavaScript` | `React` *(learning)*
+`HTML` | `CSS` | `JavaScript` | `React`
 
 ### ⚙️ Backend
 `Node.js` | `Express.js`
