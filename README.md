@@ -57,7 +57,7 @@
 ---
 
 ## 📫 Connect With Me
-- 📧 Email: **rohitgupta.dev@gmail.com**  
+- 📧 Email: **rohitkumarbelaundi@gmail.com**  
 - 💼 LinkedIn: **https://www.linkedin.com/in/rohit-kumar-gupta-149b39268**  
 - 💻 GitHub: **https://github.com/Codewithrohit45**
 
