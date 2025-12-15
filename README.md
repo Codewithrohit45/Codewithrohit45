@@ -1,41 +1,67 @@
-## 👋 Hi, I'm Rohit Kumar Gupta (@Codewithrohit45)
+# 👋 Hi, I'm Rohit Kumar Gupta  
+### 🚀 Aspiring Software Development Engineer | MERN Stack Developer  
 
 🎓 B.Tech CSE (AI & ML) student  
-💻 MERN Stack Developer | JavaScript & Node.js  
-🚀 Aspiring Software Development Engineer  
+💡 Passionate about building scalable web applications & learning system design  
 
 ---
 
-### 🧠 About Me
-- 🔹 Passionate about building real-world web applications  
-- 🔹 Strong interest in backend development & system design basics  
-- 🔹 Consistently improving DSA & problem-solving skills  
-- 🔹 Learning React and scalable backend architectures  
+## 🧠 About Me
+- 🔹 Strong foundation in **JavaScript & Backend Development**  
+- 🔹 Hands-on experience with **MERN Stack**  
+- 🔹 Actively practicing **DSA & Competitive Programming**  
+- 🔹 Believe in consistency, clean code, and continuous learning  
 
 ---
 
-### 🛠️ Tech Stack
-- **Languages:** JavaScript, Python, C  
-- **Frontend:** HTML, CSS, JavaScript, React (learning)  
-- **Backend:** Node.js, Express.js  
-- **Database:** MongoDB  
-- **Tools:** Git, GitHub, VS Code  
+## 🛠️ Tech Stack & Tools
+
+### 👨‍💻 Languages
+`JavaScript` | `Python` | `C++`
+
+### 🌐 Frontend
+`HTML` | `CSS` | `JavaScript` | `React` *(learning)*
+
+### ⚙️ Backend
+`Node.js` | `Express.js`
+
+### 🗄️ Database
+`MongoDB`
+
+### 🧰 Tools & Platforms
+`Git` | `GitHub` | `VS Code` | `Postman`
 
 ---
 
-### 🤝 Looking to Collaborate On
+## 📌 Projects Highlights
+- 🔹 **Gramin Sewa Portal** – MERN based service platform  
+- 🔹 **KaamWale** – Local worker finder web application  
+- 🔹 **Employee Management System** – Company-oriented MERN project  
+
+*(More projects coming soon 🚧)*
+
+---
+
+## 📈 Problem Solving & Learning
+- 🧠 Practicing DSA on **LeetCode & Codeforces**  
+- 📚 Exploring **backend architecture & REST APIs**  
+- 🏗️ Learning how to design real-world scalable systems  
+
+---
+
+## 🤝 Open to Collaborate
 - MERN Stack Projects  
-- Backend APIs & Web Apps  
-- Beginner-friendly Open Source Projects  
+- Backend APIs & Databases  
+- Beginner-friendly Open Source Contributions  
 
 ---
 
-### 📫 Connect With Me
-- 📧 Email: rohitkumarbelaundi@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/rohit-kumar-gupta-149b39268  
-- 💻 GitHub: https://github.com/Codewithrohit45  
+## 📫 Connect With Me
+- 📧 Email: **rohitgupta.dev@gmail.com**  
+- 💼 LinkedIn: **https://www.linkedin.com/in/rohit-kumar-gupta-149b39268**  
+- 💻 GitHub: **https://github.com/Codewithrohit45**
 
 ---
 
-### ⚡ Fun Fact
-> Small daily improvements lead to big results 🚀
+## ⚡ Fun Fact
+> Discipline beats motivation. Every single time. 🔥
